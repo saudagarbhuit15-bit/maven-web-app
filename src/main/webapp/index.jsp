@@ -6,7 +6,7 @@
   
   <h2> Call Us : +91-7993616589  </h2> 
   
-  <h3> Our Ofc Location : Pune, Hinjawadi </h3>
+  <h3> Our Ofice Location : Pune, Hinjawadi </h3>
 
 </body>
 </html>
