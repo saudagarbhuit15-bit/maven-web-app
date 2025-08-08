@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcom to Capgemini Hinjawadi Phase-3<font></h1>
+<h1><font color='red'> Welcome to Capgemini Hinjawadi Phase-3<font></h1>
 
 <a href="www.ashokit.in">Click Here To See campus</a>
   
